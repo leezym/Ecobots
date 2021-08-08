@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 4a28378c9f79977499849f0269aa025e
+timeCreated: 1459176464
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loto formas_0
+    21300002: loto formas_1
+    21300004: loto formas_2
+    21300006: loto formas_3
+    21300008: loto formas_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loto formas_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 696
+        width: 492
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -153}
+        - {x: 55, y: -172}
+        - {x: 89, y: -184}
+        - {x: 113, y: -201}
+        - {x: 150, y: -185}
+        - {x: 174, y: -178}
+        - {x: 210, y: -164}
+        - {x: 225, y: -134}
+        - {x: 246, y: -80}
+        - {x: 246, y: -33}
+        - {x: 239, y: -14}
+        - {x: 234, y: 21}
+        - {x: 224, y: 89}
+        - {x: 213, y: 107}
+        - {x: 199, y: 119}
+        - {x: 173, y: 116}
+        - {x: 163, y: 148}
+        - {x: 146, y: 170}
+        - {x: 129, y: 167}
+        - {x: 114, y: 160}
+        - {x: 96, y: 198}
+        - {x: 88, y: 207}
+        - {x: 74, y: 207}
+        - {x: 67, y: 205}
+        - {x: 27, y: 177}
+        - {x: 14, y: 170}
+        - {x: -20, y: 185}
+        - {x: -41, y: 190}
+        - {x: -45, y: 185}
+        - {x: -55, y: 171}
+        - {x: -75, y: 200}
+        - {x: -85, y: 198}
+        - {x: -133, y: 148}
+        - {x: -146, y: 149}
+        - {x: -180, y: 129}
+        - {x: -176, y: 58}
+        - {x: -183, y: 33}
+        - {x: -196, y: 25}
+        - {x: -201, y: 9}
+        - {x: -218, y: 26}
+        - {x: -244, y: 30}
+        - {x: -246, y: 27}
+        - {x: -246, y: -39}
+        - {x: -242, y: -46}
+        - {x: -242, y: -96}
+        - {x: -230, y: -120}
+        - {x: -204, y: -135}
+        - {x: -176, y: -145}
+        - {x: -138, y: -152}
+        - {x: -89, y: -173}
+        - {x: -71, y: -179}
+        - {x: -36, y: -185}
+        - {x: 8, y: -207}
+        - {x: 38, y: -207}
+        - {x: 45, y: -195}
+        - {x: 41, y: -172}
+        - {x: 47, y: -147}
+      - - {x: 48, y: -177}
+        - {x: 48, y: -178}
+        - {x: 50, y: -180}
+        - {x: 52, y: -180}
+        - {x: 56, y: -176}
+        - {x: 55, y: -173}
+        - {x: 52, y: -173}
+    - name: loto formas_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 708
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: loto formas_2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 660
+        width: 388
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: 94}
+        - {x: 175, y: 121}
+        - {x: 157, y: 139}
+        - {x: 160, y: 164}
+        - {x: 139, y: 192}
+        - {x: 110, y: 214}
+        - {x: 46, y: 237}
+        - {x: 29, y: 261}
+        - {x: 23, y: 263}
+        - {x: -27, y: 263}
+        - {x: -53, y: 244}
+        - {x: -83, y: 229}
+        - {x: -102, y: 214}
+        - {x: -125, y: 197}
+        - {x: -146, y: 170}
+        - {x: -166, y: 136}
+        - {x: -174, y: 93}
+        - {x: -175, y: 74}
+        - {x: -194, y: 7}
+        - {x: -194, y: -57}
+        - {x: -172, y: -90}
+        - {x: -169, y: -93}
+        - {x: -157, y: -112}
+        - {x: -98, y: -156}
+        - {x: -81, y: -156}
+        - {x: -71, y: -145}
+        - {x: -41, y: -140}
+        - {x: -15, y: -138}
+        - {x: -4, y: -185}
+        - {x: -14, y: -209}
+        - {x: -11, y: -217}
+        - {x: 49, y: -217}
+        - {x: 52, y: -214}
+        - {x: 37, y: -152}
+        - {x: 38, y: -133}
+        - {x: 60, y: -133}
+        - {x: 91, y: -136}
+        - {x: 115, y: -179}
+        - {x: 157, y: -151}
+        - {x: 166, y: -122}
+        - {x: 169, y: -110}
+        - {x: 170, y: -103}
+        - {x: 173, y: -125}
+        - {x: 162, y: -176}
+        - {x: 149, y: -204}
+        - {x: 139, y: -245}
+        - {x: 163, y: -263}
+        - {x: 176, y: -263}
+        - {x: 194, y: -243}
+        - {x: 194, y: 74}
+      - - {x: -55, y: -203}
+        - {x: -56, y: -208}
+        - {x: -54, y: -210}
+        - {x: -52, y: -210}
+        - {x: -50, y: -208}
+        - {x: -50, y: -204}
+        - {x: -52, y: -202}
+      - - {x: -193, y: -89}
+        - {x: -190, y: -92}
+        - {x: -187, y: -91}
+        - {x: -187, y: -87}
+        - {x: -188, y: -85}
+        - {x: -191, y: -85}
+        - {x: -193, y: -86}
+      - - {x: -180, y: -79}
+        - {x: -181, y: -81}
+        - {x: -181, y: -84}
+        - {x: -180, y: -86}
+        - {x: -178, y: -86}
+        - {x: -175, y: -85}
+        - {x: -175, y: -80}
+        - {x: -177, y: -79}
+      - - {x: 98, y: 224}
+        - {x: 96, y: 223}
+        - {x: 96, y: 220}
+        - {x: 99, y: 217}
+        - {x: 102, y: 217}
+        - {x: 103, y: 219}
+        - {x: 103, y: 222}
+        - {x: 101, y: 224}
+    - name: loto formas_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 189
+        width: 632
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: -182}
+        - {x: 211, y: -173}
+        - {x: 250, y: -145}
+        - {x: 282, y: -105}
+        - {x: 287, y: -76}
+        - {x: 249, y: -41}
+        - {x: 256, y: -24}
+        - {x: 258, y: -3}
+        - {x: 251, y: 14}
+        - {x: 266, y: 27}
+        - {x: 286, y: 49}
+        - {x: 303, y: 91}
+        - {x: 316, y: 126}
+        - {x: 316, y: 135}
+        - {x: 315, y: 139}
+        - {x: 255, y: 141}
+        - {x: 206, y: 126}
+        - {x: 167, y: 111}
+        - {x: 160, y: 97}
+        - {x: 147, y: 146}
+        - {x: 145, y: 180}
+        - {x: 142, y: 209}
+        - {x: 130, y: 220}
+        - {x: 98, y: 220}
+        - {x: 82, y: 212}
+        - {x: 58, y: 188}
+        - {x: 22, y: 148}
+        - {x: 8, y: 127}
+        - {x: -3, y: 150}
+        - {x: -42, y: 201}
+        - {x: -65, y: 204}
+        - {x: -72, y: 198}
+        - {x: -91, y: 163}
+        - {x: -96, y: 138}
+        - {x: -92, y: 121}
+        - {x: -104, y: 109}
+        - {x: -139, y: 129}
+        - {x: -162, y: 137}
+        - {x: -189, y: 142}
+        - {x: -214, y: 164}
+        - {x: -245, y: 162}
+        - {x: -259, y: 142}
+        - {x: -258, y: 124}
+        - {x: -257, y: 104}
+        - {x: -298, y: 84}
+        - {x: -269, y: 43}
+        - {x: -243, y: 5}
+        - {x: -231, y: -9}
+        - {x: -289, y: -27}
+        - {x: -306, y: -37}
+        - {x: -314, y: -48}
+        - {x: -316, y: -51}
+        - {x: -316, y: -90}
+        - {x: -314, y: -99}
+        - {x: -295, y: -111}
+        - {x: -297, y: -129}
+        - {x: -286, y: -140}
+        - {x: -227, y: -183}
+        - {x: -177, y: -197}
+        - {x: -160, y: -200}
+        - {x: -140, y: -196}
+        - {x: -126, y: -188}
+        - {x: -104, y: -171}
+        - {x: -64, y: -173}
+        - {x: -16, y: -204}
+        - {x: -21, y: -216}
+        - {x: -20, y: -220}
+        - {x: 50, y: -220}
+        - {x: 52, y: -215}
+        - {x: 54, y: -190}
+        - {x: 133, y: -188}
+      - - {x: 56, y: -205}
+        - {x: 64, y: -205}
+        - {x: 76, y: -197}
+        - {x: 76, y: -191}
+        - {x: 75, y: -190}
+        - {x: 61, y: -190}
+        - {x: 56, y: -196}
+      - - {x: -280, y: 165}
+        - {x: -278, y: 162}
+        - {x: -249, y: 162}
+        - {x: -244, y: 164}
+        - {x: -244, y: 184}
+        - {x: -249, y: 190}
+        - {x: -279, y: 190}
+        - {x: -280, y: 187}
+    - name: loto formas_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 615
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

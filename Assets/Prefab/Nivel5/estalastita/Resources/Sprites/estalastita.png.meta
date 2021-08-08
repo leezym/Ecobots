@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: c870b9251b3d69b498338fb3519aa14e
+timeCreated: 1455788852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: estalastita_0
+    21300002: estalastita_1
+    21300004: estalastita_2
+    21300006: estalastita_3
+    21300008: estalastita_4
+    21300010: estalastita_5
+    21300012: estalastita_6
+    21300014: estalastita_7
+    21300016: estalastita_8
+    21300018: estalastita_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: estalastita_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 241
+        width: 94
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 91}
+        - {x: -42, y: 91}
+        - {x: -47, y: 79}
+        - {x: -47, y: -1}
+        - {x: -11, y: -90}
+        - {x: -6, y: -91}
+        - {x: 13, y: -91}
+        - {x: 32, y: -77}
+        - {x: 47, y: -5}
+        - {x: 47, y: 85}
+    - name: estalastita_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 241
+        width: 93
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 90}
+        - {x: 39.5, y: 91}
+        - {x: -41.5, y: 91}
+        - {x: -46.5, y: 87}
+        - {x: -46.5, y: -5}
+        - {x: -34.5, y: -72}
+        - {x: -18.5, y: -91}
+        - {x: -4.5, y: -91}
+        - {x: 9.5, y: -66}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 61}
+    - name: estalastita_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 247
+        width: 85
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 88}
+        - {x: -42.5, y: 87}
+        - {x: -42.5, y: -28}
+        - {x: -34.5, y: -88}
+        - {x: -7.5, y: -88}
+        - {x: 28.5, y: -73}
+        - {x: 42.5, y: -58}
+        - {x: 42.5, y: 88}
+    - name: estalastita_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 218
+        width: 96
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 102.5}
+        - {x: -48, y: 5.5}
+        - {x: -36, y: -96.5}
+        - {x: -20, y: -93.5}
+        - {x: -4, y: -79.5}
+        - {x: 5, y: -92.5}
+        - {x: 14, y: -102.5}
+        - {x: 38, y: -102.5}
+        - {x: 48, y: -96.5}
+        - {x: 48, y: 102.5}
+    - name: estalastita_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 211
+        width: 75
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 106}
+        - {x: 8.5, y: 96}
+        - {x: -15.5, y: 106}
+        - {x: -37.5, y: 106}
+        - {x: -37.5, y: -42}
+        - {x: -30.5, y: -88}
+        - {x: -17.5, y: -83}
+        - {x: 7.5, y: -106}
+        - {x: 37.5, y: -106}
+        - {x: 37.5, y: 106}
+    - name: estalastita_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 103
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 95}
+        - {x: -4.5, y: 89}
+        - {x: -24.5, y: 99}
+        - {x: -51.5, y: 99}
+        - {x: -51.5, y: -91}
+        - {x: -37.5, y: -99}
+        - {x: 51.5, y: -99}
+        - {x: 51.5, y: 99}
+        - {x: 2.5, y: 99}
+        - {x: 1.5, y: 98}
+    - name: estalastita_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 211
+        width: 95
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 106}
+        - {x: -47.5, y: -84}
+        - {x: -31.5, y: -81}
+        - {x: -13.5, y: -58}
+        - {x: -7.5, y: -51}
+        - {x: 0.5, y: -38}
+        - {x: -6.5, y: -65}
+        - {x: -10.5, y: -94}
+        - {x: 12.5, y: -106}
+        - {x: 39.5, y: -106}
+        - {x: 47.5, y: -97}
+        - {x: 47.5, y: -15}
+        - {x: 26.5, y: 106}
+    - name: estalastita_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 211
+        width: 88
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 106}
+        - {x: 9, y: 106}
+        - {x: 3, y: 96}
+        - {x: -25, y: 106}
+        - {x: -43, y: 106}
+        - {x: -44, y: 98}
+        - {x: -44, y: 35}
+        - {x: -33, y: -81}
+        - {x: -23, y: -97}
+        - {x: 2, y: -106}
+        - {x: 44, y: -106}
+        - {x: 44, y: 10}
+        - {x: 36, y: 97}
+    - name: estalastita_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 238
+        width: 98
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -73.5}
+        - {x: 34, y: -75.5}
+        - {x: 34, y: -86.5}
+        - {x: 36, y: -88.5}
+        - {x: 42, y: -89.5}
+        - {x: 49, y: -84.5}
+        - {x: 49, y: 54.5}
+        - {x: 43, y: 92.5}
+        - {x: -49, y: 92.5}
+        - {x: -49, y: -50.5}
+        - {x: -27, y: -92.5}
+        - {x: -12, y: -92.5}
+        - {x: -5, y: -90.5}
+        - {x: 4, y: -68.5}
+        - {x: 27, y: -77.5}
+        - {x: 33, y: -75.5}
+    - name: estalastita_9
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 238
+        width: 102
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 36.5}
+        - {x: 27, y: 30.5}
+        - {x: 27, y: 10.5}
+        - {x: 27, y: 36.5}
+        - {x: 29, y: 39.5}
+        - {x: 31, y: 86.5}
+        - {x: 27, y: 92.5}
+        - {x: 8, y: 92.5}
+        - {x: 3, y: 85.5}
+        - {x: -4, y: 80.5}
+        - {x: -24, y: 92.5}
+        - {x: -43, y: 92.5}
+        - {x: -51, y: 76.5}
+        - {x: -51, y: 10.5}
+        - {x: -24, y: -92.5}
+        - {x: -3, y: -92.5}
+        - {x: 51, y: -5.5}
+        - {x: 51, y: 43.5}
+        - {x: 39, y: 43.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

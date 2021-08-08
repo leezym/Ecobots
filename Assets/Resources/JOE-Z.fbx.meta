@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 833249a8cd22bb747a6b9f75e718223c
+timeCreated: 1453044875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bd1
+    100002: Bi1
+    100004: bolita:pSphere1
+    100006: brazo_derecho
+    100008: brazo_izquierdo
+    100010: CABEZA
+    100012: cabeza
+    100014: //RootNode
+    100016: Joe_z
+    100018: MANO_DE
+    100020: MANO_IZ
+    100022: nurbsCircle10
+    100024: nurbsCircle5
+    100026: nurbsCircle6
+    100028: nurbsCircle8
+    100030: Pd1
+    100032: Pi1
+    100034: PIE_DE
+    100036: PIE_IZ
+    100038: pierna_derecha
+    100040: pierna_izquierda
+    100042: polySurface100
+    100044: polySurface101
+    100046: polySurface102
+    100048: polySurface103
+    100050: polySurface104
+    100052: polySurface79
+    100054: polySurface80
+    100056: polySurface81
+    100058: polySurface82
+    100060: polySurface83
+    100062: polySurface84
+    100064: polySurface85
+    100066: polySurface86
+    100068: polySurface87
+    100070: polySurface89
+    100072: polySurface90
+    100074: polySurface91
+    100076: polySurface92
+    100078: polySurface93
+    100080: polySurface94
+    100082: polySurface95
+    100084: polySurface96
+    100086: polySurface97
+    100088: polySurface98
+    100090: polySurface99
+    100092: torzo
+    400000: Bd1
+    400002: Bi1
+    400004: bolita:pSphere1
+    400006: brazo_derecho
+    400008: brazo_izquierdo
+    400010: CABEZA
+    400012: cabeza
+    400014: //RootNode
+    400016: Joe_z
+    400018: MANO_DE
+    400020: MANO_IZ
+    400022: nurbsCircle10
+    400024: nurbsCircle5
+    400026: nurbsCircle6
+    400028: nurbsCircle8
+    400030: Pd1
+    400032: Pi1
+    400034: PIE_DE
+    400036: PIE_IZ
+    400038: pierna_derecha
+    400040: pierna_izquierda
+    400042: polySurface100
+    400044: polySurface101
+    400046: polySurface102
+    400048: polySurface103
+    400050: polySurface104
+    400052: polySurface79
+    400054: polySurface80
+    400056: polySurface81
+    400058: polySurface82
+    400060: polySurface83
+    400062: polySurface84
+    400064: polySurface85
+    400066: polySurface86
+    400068: polySurface87
+    400070: polySurface89
+    400072: polySurface90
+    400074: polySurface91
+    400076: polySurface92
+    400078: polySurface93
+    400080: polySurface94
+    400082: polySurface95
+    400084: polySurface96
+    400086: polySurface97
+    400088: polySurface98
+    400090: polySurface99
+    400092: torzo
+    2300000: bolita:pSphere1
+    2300002: polySurface100
+    2300004: polySurface101
+    2300006: polySurface102
+    2300008: polySurface103
+    2300010: polySurface104
+    2300012: polySurface79
+    2300014: polySurface80
+    2300016: polySurface81
+    2300018: polySurface82
+    2300020: polySurface83
+    2300022: polySurface84
+    2300024: polySurface85
+    2300026: polySurface86
+    2300028: polySurface87
+    2300030: polySurface89
+    2300032: polySurface90
+    2300034: polySurface91
+    2300036: polySurface92
+    2300038: polySurface93
+    2300040: polySurface94
+    2300042: polySurface95
+    2300044: polySurface96
+    2300046: polySurface97
+    2300048: polySurface98
+    2300050: polySurface99
+    3300000: bolita:pSphere1
+    3300002: polySurface100
+    3300004: polySurface101
+    3300006: polySurface102
+    3300008: polySurface103
+    3300010: polySurface104
+    3300012: polySurface79
+    3300014: polySurface80
+    3300016: polySurface81
+    3300018: polySurface82
+    3300020: polySurface83
+    3300022: polySurface84
+    3300024: polySurface85
+    3300026: polySurface86
+    3300028: polySurface87
+    3300030: polySurface89
+    3300032: polySurface90
+    3300034: polySurface91
+    3300036: polySurface92
+    3300038: polySurface93
+    3300040: polySurface94
+    3300042: polySurface95
+    3300044: polySurface96
+    3300046: polySurface97
+    3300048: polySurface98
+    3300050: polySurface99
+    4300000: bolita:pSphere1
+    4300002: polySurface102
+    4300004: polySurface104
+    4300006: polySurface94
+    4300008: polySurface95
+    4300010: polySurface101
+    4300012: polySurface103
+    4300014: polySurface91
+    4300016: polySurface93
+    4300018: polySurface82
+    4300020: polySurface83
+    4300022: polySurface90
+    4300024: polySurface92
+    4300026: polySurface85
+    4300028: polySurface87
+    4300030: polySurface89
+    4300032: polySurface84
+    4300034: polySurface86
+    4300036: polySurface97
+    4300038: polySurface99
+    4300040: polySurface100
+    4300042: polySurface96
+    4300044: polySurface98
+    4300046: polySurface80
+    4300048: polySurface81
+    4300050: polySurface79
+    7400000: Fall
+    7400002: Run
+    7400004: jump
+    7400006: Shoot Air
+    7400008: Static Shoot
+    7400010: Runnig Shoot
+    7400012: Idle
+    7400014: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 56
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot Air
+      takeName: Take 001
+      firstFrame: 71
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Fall
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Static Shoot
+      takeName: Take 001
+      firstFrame: 96
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Runnig Shoot
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 190
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joe_z
+        weight: 1
+      - path: Joe_z/CABEZA
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza
+        weight: 1
+      - path: Joe_z/CABEZA/cabeza/bolita:pSphere1
+        weight: 1
+      - path: Joe_z/MANO_DE
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface91
+        weight: 1
+      - path: Joe_z/MANO_DE/brazo_derecho/polySurface93
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface82
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface83
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface90
+        weight: 1
+      - path: Joe_z/MANO_DE/nurbsCircle5/Bd1/polySurface92
+        weight: 1
+      - path: Joe_z/MANO_IZ
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface102
+        weight: 1
+      - path: Joe_z/MANO_IZ/brazo_izquierdo/polySurface104
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface94
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface95
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface101
+        weight: 1
+      - path: Joe_z/MANO_IZ/nurbsCircle6/Bi1/polySurface103
+        weight: 1
+      - path: Joe_z/PIE_DE
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface85
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface87
+        weight: 1
+      - path: Joe_z/PIE_DE/nurbsCircle10/Pd1/polySurface89
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface84
+        weight: 1
+      - path: Joe_z/PIE_DE/pierna_derecha/polySurface86
+        weight: 1
+      - path: Joe_z/PIE_IZ
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface97
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface99
+        weight: 1
+      - path: Joe_z/PIE_IZ/nurbsCircle8/Pi1/polySurface100
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface96
+        weight: 1
+      - path: Joe_z/PIE_IZ/pierna_izquierda/polySurface98
+        weight: 1
+      - path: Joe_z/torzo
+        weight: 1
+      - path: Joe_z/torzo/polySurface79
+        weight: 1
+      - path: Joe_z/torzo/polySurface80
+        weight: 1
+      - path: Joe_z/torzo/polySurface81
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

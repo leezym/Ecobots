@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 92bb61adff6648b429d8f47dbe334a4a
+timeCreated: 1455607578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boa bot_0
+    21300002: Boa bot_1
+    21300004: Boa bot_2
+    21300006: Boa bot_3
+    21300008: Boa bot_4
+    21300010: Boa bot_5
+    21300012: Boa bot_6
+    21300014: Boa bot_7
+    21300016: Boa bot_8
+    21300018: Boa bot_9
+    21300020: Boa bot_10
+    21300022: Boa bot_11
+    21300024: Boa bot_12
+    21300026: Boa bot_13
+    21300028: Boa bot_14
+    21300030: Boa bot_15
+    21300032: Boa bot_16
+    21300034: Boa bot_17
+    21300036: Boa bot_18
+    21300038: Boa bot_19
+    21300040: Boa bot_20
+    21300042: Boa bot_21
+    21300044: Boa bot_22
+    21300046: Boa bot_23
+    21300048: Boa bot_24
+    21300050: Boa bot_25
+    21300052: Boa bot_26
+    21300054: Boa bot_27
+    21300056: Boa bot_28
+    21300058: Boa bot_29
+    21300060: Boa bot_30
+    21300062: Boa bot_31
+    21300064: Boa bot_32
+    21300066: Boa bot_33
+    21300068: Boa bot_34
+    21300070: Boa bot_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boa bot_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 429
+        width: 329
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 629
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 615
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 432
+        width: 270
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_4
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 651
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 424
+        width: 231
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 323
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 607
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 593
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 608
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_10
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 598
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 586
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 313
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 319
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 28
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 313
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_18
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 38
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 261
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 267
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_21
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 303
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_22
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 261
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 277
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_25
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 251
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_26
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 271
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 257
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 255
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_30
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 261
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_31
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 239
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 251
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boa bot_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 241
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
